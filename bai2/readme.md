@@ -4,7 +4,6 @@
 
 
 using System;
-
 namespace AutoSpeedOOP
 {
     public abstract class PhuongTien
